@@ -17,7 +17,7 @@
     ],
     "repositories": [{
         "type": "git",
-        "url": "https://github.com/intrazik/oauth2-php.git"
+        "url": "https://github.com/intrazik/oauth2-php"
     }],
     "require": {
         "php": "^5.3.3|^7.0",
